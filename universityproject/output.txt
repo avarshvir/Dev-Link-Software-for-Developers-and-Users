@@ -1,0 +1,39 @@
+************************************Enter choice************************************ 
+----------------------------------------------------------
+
+ 1> Arithmetic 
+ 2> Matrix 
+ 3> Trigonometry 
+ 4> Number System Conversion 
+ 5> Area, Parameter/Surface Area and Volume Finder 
+ 6> Round Shaped (speacial i.e circles, sphere, 2d/3d round shapes) 
+ 7> Learn Basic Formulas 
+ 8> Exit 
+----------------------------------------------------------
+Select 1 to 8 
+************************************Enter choice************************************ 
+----------------------------------------------------------
+
+ 1> Arithmetic 
+ 2> Matrix 
+ 3> Trigonometry 
+ 4> Number System Conversion 
+ 5> Area, Parameter/Surface Area and Volume Finder 
+ 6> Round Shaped (speacial i.e circles, sphere, 2d/3d round shapes) 
+ 7> Learn Basic Formulas 
+ 8> Exit 
+----------------------------------------------------------
+Select 1 to 8 
+************************************Enter choice************************************ 
+----------------------------------------------------------
+
+ 1> Arithmetic 
+ 2> Matrix 
+ 3> Trigonometry 
+ 4> Number System Conversion 
+ 5> Area, Parameter/Surface Area and Volume Finder 
+ 6> Round Shaped (speacial i.e circles, sphere, 2d/3d round shapes) 
+ 7> Learn Basic Formulas 
+ 8> Exit 
+----------------------------------------------------------
+Select 1 to 8 

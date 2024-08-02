@@ -1,0 +1,10 @@
+<html>,blue
+</html>,blue
+<head>,cyan
+</head>,cyan
+<body>,purple
+</body>,purple
+<title>,orange
+</title>,orange
+<p>,yellow
+</p>,yellow
