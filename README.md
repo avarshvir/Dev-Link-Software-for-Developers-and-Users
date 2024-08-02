@@ -43,7 +43,7 @@ Dev Link is an all-in-one software suite designed to streamline productivity and
 
 ## Installation
 
-1. **Download the latest release** from the [Dev Link repository](#https://github.com/avarshvir/Dev-Link-Software-for-Developers-and-Users).
+1. **Download the latest release** from the [Dev Link repository](https://github.com/avarshvir/Dev-Link-Software-for-Developers-and-Users).
 2. **Install Java Runtime Environment (JRE)** if not already installed.
 3. **Run the installer** and follow the on-screen instructions.
 
