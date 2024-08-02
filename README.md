@@ -59,8 +59,14 @@ I welcome contributions to Dev Link! Please fork the repository and submit a pul
 
 ## License
 
-Dev Link is licensed under the [MIT License](#). See the LICENSE file for more details.
+Dev Link is licensed under the [MIT License](https://github.com/avarshvir/Dev-Link-Software-for-Developers-and-Users?tab=MIT-1-ov-file). See the LICENSE file for more details.
 
 ## Contact
 
-For support or inquiries, please contact us at [jaihodigital.onrender.com](#https://jaihodigital.onrender.com).
+For support or inquiries, please contact us at [jaihodigital.onrender.com](https://jaihodigital.onrender.com).
+
+## Developer Info:
+- **Developer Name** : Arshvir
+- **Developer Portfolio Website** : [arshvir.w3spaces.com](https://arshvir.w3spaces.com)
+- **Github Portfolio Website** : [avarshvir.github.io/arshvir](https://avarshvir.github.io/arshvir)
+- **Company Website** : [jaihodigital.onrender.com](https://jaihodigital.onrender.com)
